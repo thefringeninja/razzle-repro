@@ -1,0 +1,16 @@
+logs
+*.log
+npm-debug.log*
+.DS_Store
+
+coverage/
+node_modules/
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+*.js
+*.js.map
+*.d.ts
+*.d.ts.map
+!/types/
